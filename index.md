@@ -1,5 +1,5 @@
 # Pat Link (Bumbalough)
-`Grand Rapids, MI` | `patb@patlink.it` | [https://github.linkpit.cloud](github.linkpit.cloud)
+`Grand Rapids, MI` | `patb@patlink.it` | [github.linkpit.cloud](https://github.linkpit.cloud)
 
 ## Work Experience
 ### Verdant TCS

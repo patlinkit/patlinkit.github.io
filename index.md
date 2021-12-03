@@ -1,5 +1,5 @@
 # Pat Link (Bumbalough)
-`Grand Rapids, MI` | `patb@patlink.it` | [github.linkpit.cloud](https://github.linkpit.cloud)
+![Grand Rapids, MI](https://www.grandrapidsmi.gov/files/assets/public/initatives/neighborhood-summit/2019-summit/city-logo-horiz-transparent.png) | `patb@patlink.it` | [github.linkpit.cloud](https://github.linkpit.cloud)
 
 ## Work Experience
 ### Verdant TCS

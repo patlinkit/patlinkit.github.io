@@ -5,7 +5,9 @@
 ### Verdant TCS
 `Ada, MI` | `January 2021 - November 2021`
 _Help Desk (2021)_
+
 **_Systems Engineer I (2021)_**
+
 - Primarily remote support services for clients in finance, service, manufacturing, and retail industries across the nation
 - Scripting and Automation development, maintenance, and administration
 - Web Hosting administration, maintenance, and advanced troubleshooting

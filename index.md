@@ -1,9 +1,9 @@
-### Pat Link (Bumbalough)
+# Pat Link (Bumbalough)
 ```
 Grand Rapids, MI | patb@patlink.it | github.linkpit.cloud
 ```
 ## Work Experience
-# Verdant TCS
+### Verdant TCS
 ```
 Ada, MI | January 2021 - November 2021
 ```

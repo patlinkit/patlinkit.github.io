@@ -4,6 +4,7 @@
 ## Work Experience
 ### Verdant TCS
 `Ada, MI` | `January 2021 - November 2021`
+
 _Help Desk (2021)_
 
 **_Systems Engineer I (2021)_**

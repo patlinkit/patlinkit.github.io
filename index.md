@@ -79,10 +79,10 @@ Computer Information Systems
 - Wired and Wireless Network Administration and Diagnostics
 - Wired and Wireless Network Infrastructure and Hardware
 - Mobile Device Management Administration and Troubleshooting
-- Scripting Proficiency
-- Documentation Management and Maintenance
+- Scripting and Automation
+- Documentation Management and Maintenance (ITDS/IPAM)
 - Asset Tracking and Maintenance
-- SaaS, PaaS, IaaS, and MaaS
+- Software, Platform, Infrastructure, and Mobility as-a-service solutions (SaaS, PaaS, IaaS, MaaS)
 
 ### System Experience
 - Windows Server 2008, 2012, 2016

@@ -47,6 +47,7 @@ _Help Desk Associate (2017-2018)_
 
 ### iGeek Repair Center
 `Adrian, MI` | `October 2015- April 2016`
+
 **_Repair Technician (2015-2016_**
 - Repair mobile devices including troubleshooting 
 - PC hardware repair

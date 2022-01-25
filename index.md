@@ -60,13 +60,13 @@ _Help Desk Associate (2017-2018)_
 ### Baker College
 `Owosso, MI` 
 
-Major: Associates of Applied Science, Information Technology
-Major: Microsoft Networking Administration
+- Major: Associates of Applied Science, Information Technology
+- Major: Microsoft Networking Administration
 
 ### LISD Tech Center
 `Adrian, MI`
 
-Computer Information Systems
+- Computer Information Systems
 
 ## Skills
 

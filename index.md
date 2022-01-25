@@ -23,7 +23,7 @@ _Help Desk (2021)_
 
 _Help Desk Associate (2017-2018)_
 
-**_Systems Engineer I (2018-2020)_**
+**_IT Systems Analyst (2018-2020)_**
 
 - On-site and remote support services for 40+ locations, 1200+ endpoints, and 1000+ users primarily in the auto industry
 - Helpdesk administration and maintenance using Solarwinds Service Desk

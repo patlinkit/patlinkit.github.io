@@ -1,11 +1,9 @@
 # Pat Link (Bumbalough)
-
 `Grand Rapids, MI` | `pat@linkpit.cloud` | `github.linkpit.cloud`
 
 ## Work Experience
 
 ### OneStream Software
-
 `Rochester, MI`|`February 2022 - Now`
 
 **_Technical Support Engineer (2022)_**
@@ -19,7 +17,6 @@
 - Complete changes to Azure environments including Virtual Machine Re-Sizes, Adjustments to SQL Azure Elastic Pools, Log Analysis, etc
 
 ### Verdant TCS
-
 `Ada, MI` | `January 2021 - November 2021`
 
 _Help Desk (2021)
@@ -36,7 +33,6 @@ _Help Desk (2021)
 - Help documentation for IT staff and end-users
 
 ### DP Fox
-
 `Grand Rapids, MI` | `April 2017 - December 2020`
 
 _Help Desk Associate (2017-2018)_
@@ -53,7 +49,6 @@ _Help Desk Associate (2017-2018)_
 - User guide development for IT staff and end-users
 
 ### I.T. Right
-
 `Bath, MI` | `April 2016 - April 2017`
 
 **_Field Service Technician (2016-2017)_**
@@ -66,7 +61,6 @@ _Help Desk Associate (2017-2018)_
 - Inventory management using AutoTask
 
 ### iGeek Repair Center
-
 `Adrian, MI` | `October 2015- April 2016`
 
 **_Repair Technician (2015-2016_**
@@ -80,14 +74,12 @@ _Help Desk Associate (2017-2018)_
 ## Education
 
 ### Baker College
-
 `Owosso, MI`
 
 - Major: Associates of Applied Science, Information Technology
 - Major: Microsoft Networking Administration
 
 ### LISD Tech Center
-
 `Adrian, MI`
 
 - Computer Information Systems
